@@ -94,10 +94,10 @@ body {
 
 .faq-list details img {
   margin-left: auto;
-  content: url("/icon-plus.svg");
+  content: url("/public/icon-plus.svg");
 }
 .faq-list details[open] img {
-  content: url("/icon-minus.svg");
+  content: url("/public/icon-minus.svg");
 }
 .faq-list summary {
   font-weight: var(--fw-semibold);
