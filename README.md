@@ -10,7 +10,6 @@ The Accordion FAQ website features a clean and modern design, with a responsive 
 
 - Accordion-style layout for FAQs
 - Responsive design for optimal viewing on various devices
-- Smooth transitions/animations for a polished user experience
 - Accessibility considerations for screen readers and keyboard navigation
 - Cross-browser compatibility to ensure consistent performance across different browsers
 
