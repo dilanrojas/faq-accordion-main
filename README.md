@@ -15,7 +15,7 @@ The Accordion FAQ website features a clean and modern design, with a responsive 
 
 ## Demo
 
-You can view a live demo of the Accordion FAQ website [here](https://faq-accordion-main.pages.dev/) (insert link to live demo).
+You can view a live demo of the Accordion FAQ website [here](https://faq-accordion-main.pages.dev/)
 
 ## Screenshot
 
