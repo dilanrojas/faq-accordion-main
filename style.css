@@ -92,11 +92,11 @@ body {
   color: var(--clr-accent-300);
 }
 
-.faq-list details img {
+.faq-list details summary img {
   margin-left: auto;
   content: url("/public/icon-plus.svg");
 }
-.faq-list details[open] img {
+.faq-list details[open] summary img {
   content: url("/public/icon-minus.svg");
 }
 .faq-list summary {
