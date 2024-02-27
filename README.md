@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/accordion-faq-frontend-mentor.git
+git clone https://github.com/dilanrojas/faq-accordion-main.git
 ```
 
 2. Install dependencies using NPM
