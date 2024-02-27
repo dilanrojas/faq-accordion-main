@@ -1,18 +1,3 @@
-# Accordion FAQ Website - Frontend Mentor Challenge
-
-This repository contains my solution to the Accordion FAQ challenge by Frontend Mentor. The challenge was to build an accordion-style FAQ page according to the provided design and requirements.
-
-## Overview
-
-The Accordion FAQ website features a clean and modern design, with a responsive layout that adapts to different screen sizes. Users can easily navigate through the list of frequently asked questions and reveal answers by clicking on the questions.
-
-## Features
-
-- Accordion-style layout for FAQs
-- Responsive design for optimal viewing on various devices
-- Accessibility considerations for screen readers and keyboard navigation
-- Cross-browser compatibility to ensure consistent performance across different browsers
-
 ## Demo
 
 You can view a live demo of the Accordion FAQ website [here](https://faq-accordion-main.pages.dev/)
